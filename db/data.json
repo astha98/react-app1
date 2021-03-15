@@ -1,0 +1,52 @@
+{
+    "contacts" :[
+    {
+    "id":1,
+    "name" :"Kumar",
+    "gender" :"male",
+    "email":"naveen@probits.in",
+    "phone":"9900524255",
+    "picture" :"https://randomuser.me/api/portraits/men/30.jpg"
+},
+{
+    "id":2,
+    "name" :"Charan",
+    "gender" :"male",
+    "email":"Charan@probits.in",
+    "phone":"9900000005",
+    "picture" :"https://randomuser.me/api/portraits/men/30.jpg"
+},
+{
+    "id":3,
+    "name" :"Monika",
+    "gender" :"Female",
+    "email":"Monika@probits.in",
+    "phone":"9900978787",
+    "picture" :"https://randomuser.me/api/portraits/women/30.jpg"
+},
+{
+    "id":4,
+    "name" :"Kumar",
+    "gender" :"male",
+    "email":"naveen@probits.in",
+    "phone":"9900524255",
+    "picture" :"https://randomuser.me/api/portraits/men/30.jpg"
+},
+{
+    "id":5,
+    "name" :"Charan",
+    "gender" :"male",
+    "email":"Charan@probits.in",
+    "phone":"9900000005",
+    "picture" :"https://randomuser.me/api/portraits/men/30.jpg"
+},
+{
+    "id":6,
+    "name" :"Monika",
+    "gender" :"Female",
+    "email":"Monika@probits.in",
+    "phone":"9900978787",
+    "picture" :"https://randomuser.me/api/portraits/women/30.jpg"
+}
+]
+}
